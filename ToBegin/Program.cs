@@ -12,6 +12,8 @@ namespace ToBegin
         {
             foreach (string s in args)
                 Console.WriteLine(s);
+
+            Console.ReadLine();
         }
     }
 }
