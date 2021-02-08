@@ -10,6 +10,7 @@ namespace ToBegin
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Argumenty příkazového řádku:");
             foreach (string s in args)
                 Console.WriteLine(s);
 
