@@ -11,5 +11,6 @@ namespace ToBegin
         static void Main(string[] args)
         {
         }
+	// komentarum se vyhni
     }
 }
