@@ -10,6 +10,7 @@ namespace ToBegin
     {
         static void Main(string[] args)
         {
+		int i = 2;
 	    Console.WriteLine("Write all command line arguments");
             foreach (string s in args)
                 Console.WriteLine(s);
