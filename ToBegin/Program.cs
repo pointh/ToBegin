@@ -10,6 +10,7 @@ namespace ToBegin
     {
         static void Main(string[] args)
         {
+		int i = 1;
         }
 	// komentarum se vyhni
     }
