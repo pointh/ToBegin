@@ -13,6 +13,8 @@ namespace ToBegin
 	    Console.WriteLine("Write all command line arguments");
             foreach (string s in args)
                 Console.WriteLine(s);
+
+	    // Komentuj co muzes
         }
     }
 }
