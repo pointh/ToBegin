@@ -15,6 +15,8 @@ namespace ToBegin
                 Console.WriteLine(s);
 
             Console.ReadLine();
+
+            // nějaká změna
         }
     }
 }
